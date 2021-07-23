@@ -1,4 +1,5 @@
-Cookie Recipe Program: 
+<h1>Cookie Recipe Program: </h1> 
+
 This is my first project that I had collaborated with a peer from my C++ 2 Programming course. 
 
 Within this program, I demonstrate proficiency in linked list, multi-file C++ program, and data structures. 
