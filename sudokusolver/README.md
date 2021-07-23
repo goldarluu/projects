@@ -1,1 +1,2 @@
+<h1> My Grandma's Favorite Program: Sudoku Solver </h1>
 My first and most favorite C++ program, this program, given any sudoku board will be able to check if there exist a solution or not. If there does exist a solution, then the program will return the solution is a 9 x 9 table with the answers filled in. (Truly just wrote this for my grandma because she loves Sudoku, but can't solve it for some reason.)
